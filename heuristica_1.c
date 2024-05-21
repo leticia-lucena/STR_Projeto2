@@ -217,13 +217,6 @@ int main()
     {"Tarefa5", 80, 2, 3}
 };
 
-/*struct Tarefa tarefas[] = {
-    {"Tarefa1", 14, 1, 1},
-    {"Tarefa2", 20, 2, 2},
-    {"Tarefa3", 22, 3, 1}
-};
-*/
-  
   int numTarefas = sizeof(tarefas) / sizeof(tarefas[0]);
 
     // Cálculo da taxa de utilização total e verificação de viabilidade
